@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "68254af816a829541a6c4bd0"
+  },
+  "nama": "PT. Sumber Makmur",
+  "alamat": "Jl. Industri No. 123, Surabaya",
+  "telepon": "081234567890",
+  "email": "pemasok@sumbermakmur.co.id"
+}]
